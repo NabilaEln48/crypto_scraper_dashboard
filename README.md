@@ -21,6 +21,8 @@ This project follows **Software Engineering principles** with **design patterns*
 
  Real-time auto-refresh in dashboard
 
+ Real-time chart
+
  Push notifications for price alerts
 
  Technical indicators (SMA, EMA, RSI, MACD)
