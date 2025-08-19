@@ -1,0 +1,35 @@
+2025-08-19 15:09:58,280 [INFO] CryptoScraper - Fetching data for coins=['bitcoin', 'ethereum', 'solana'] in USD...
+2025-08-19 15:09:58,688 [INFO] CryptoScraper - ✅ API data fetched successfully.
+2025-08-19 15:09:58,691 [INFO] CryptoScraper - Parsed 3 coins from API response.
+2025-08-19 15:09:58,726 [INFO] CryptoScraper - Generated summary for 3 coins.
+2025-08-19 15:13:37,201 [INFO] CryptoScraper - Fetching data for coins=['bitcoin', 'ethereum', 'solana'] in USD...
+2025-08-19 15:13:37,564 [INFO] CryptoScraper - ✅ API data fetched successfully.
+2025-08-19 15:13:37,567 [INFO] CryptoScraper - Parsed 3 coins from API response.
+2025-08-19 15:13:55,481 [INFO] CryptoScraper - Fetching data for coins=['bitcoin', 'ethereum', 'solana'] in USD...
+2025-08-19 15:13:56,214 [INFO] CryptoScraper - ✅ API data fetched successfully.
+2025-08-19 15:13:56,217 [INFO] CryptoScraper - Parsed 3 coins from API response.
+2025-08-19 15:15:59,445 [INFO] CryptoScraper - Fetching data for coins=['bitcoin', 'ethereum', 'solana'] in USD...
+2025-08-19 15:15:59,836 [INFO] CryptoScraper - ✅ API data fetched successfully.
+2025-08-19 15:15:59,839 [INFO] CryptoScraper - Parsed 3 coins from API response.
+2025-08-19 15:17:05,279 [INFO] CryptoScraper - Fetching data for coins=['bitcoin', 'ethereum', 'solana'] in USD...
+2025-08-19 15:17:06,189 [INFO] CryptoScraper - ✅ API data fetched successfully.
+2025-08-19 15:17:06,192 [INFO] CryptoScraper - Parsed 3 coins from API response.
+2025-08-19 15:17:06,196 [INFO] CryptoScraper -  Data saved to crypto_data.csv
+2025-08-19 15:17:06,207 [INFO] CryptoScraper - Generated summary for 3 coins.
+2025-08-19 15:17:51,303 [INFO] CryptoScraper - Fetching data for coins=['dodgecoin'] in USD...
+2025-08-19 15:17:51,679 [INFO] CryptoScraper - ✅ API data fetched successfully.
+2025-08-19 15:17:51,682 [INFO] CryptoScraper - Parsed 0 coins from API response.
+2025-08-19 15:17:51,683 [WARNING] CryptoScraper - No data to save to CSV.
+2025-08-19 15:17:51,691 [INFO] CryptoScraper - Generated summary for 3 coins.
+2025-08-19 15:17:51,713 [INFO] CryptoScraper - Generated summary for 3 coins.
+2025-08-19 15:17:51,718 [INFO] CryptoScraper -  Report exported to crypto_report.csv
+2025-08-19 15:21:33,020 [INFO] matplotlib.category - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-19 15:21:33,023 [INFO] matplotlib.category - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-19 15:23:13,510 [INFO] CryptoScraper - Generated summary for 5 coins.
+2025-08-19 15:29:05,496 [INFO] CryptoScraper - Fetching data for coins=['bitcoin'] in USD...
+2025-08-19 15:29:05,898 [INFO] CryptoScraper - ✅ API data fetched successfully.
+2025-08-19 15:29:05,900 [INFO] CryptoScraper - Parsed 1 coins from API response.
+2025-08-19 15:29:05,902 [INFO] CryptoScraper -  Data saved to crypto_data.csv
+2025-08-19 15:29:05,942 [INFO] CryptoScraper - 📊 Report exported to crypto_report.csv
+2025-08-19 15:29:15,473 [INFO] matplotlib.category - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-19 15:29:15,474 [INFO] matplotlib.category - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
