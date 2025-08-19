@@ -78,30 +78,6 @@ Controller → ReportGenerator + Charts
 Logger (Singleton / Wrapper)
 Unified logging across modules.
 
-📂 Project Structure
-crypto_scraper_dashboard/
-│── main.py                # CLI scraper (entry point)
-│── dashboard.py           # Streamlit dashboard
-│
-├── scraper/               # Scraping layer
-│   ├── base_scraper.py    # Template Method (abstract class)
-│   └── api_scraper.py     # Concrete API scraper
-│
-├── storage/               # Storage layer
-│   ├── database.py        # Singleton SQLite DB
-│   ├── loader.py          # CSV loader
-│   └── saver.py           # CSV saver
-│
-├── report/                # Reporting layer
-│   ├── report_generator.py # Summaries (Strategy pattern)
-│   └── charts.py           # Plotly/Matplotlib charts
-│
-├── utils/                 # Utilities
-│   └── logger.py           # Central logging
-│
-├── crypto_data.csv         # Exported CSV data
-├── crypto_data.db          # SQLite database
-└── README.md               # Documentation
 
 # Future Enhancements
 
